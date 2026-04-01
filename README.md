@@ -6,5 +6,5 @@ BRANCH :- CSE
 
 Section :- Gamma-2 
 
-EXP:- 5
+EXP:- 1
 
